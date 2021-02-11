@@ -1,4 +1,4 @@
 scripts
 =======
 
-Bash Scripts made for CCDC
+Bash Scripts made for CCRC
